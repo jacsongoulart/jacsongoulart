@@ -14,7 +14,7 @@
 
 
 | <a href="https://github.com/jacsongoulart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacsongoulart&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 #### Top Repositories
 
