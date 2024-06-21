@@ -8,13 +8,7 @@
 
 - 💼 Atualmente trabalho na sustentação de software ERP para distribuidores hospitalares, atuando diariamento com SQL; consultas, correção de bugs, alteraçõs de procedures e edição de reports (Crystal Reports).
 
-- ⚡ HTML, CSS, Javascript, Python, SQL
-
-
-## Aperfeiçoando:
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- ⚡ HTML, CSS, Javascript, SQL.
 
 
 | <a href="https://github.com/jacsongoulart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacsongoulart&layout=compact&theme=buefy&hide_border=true" /></a> |
