@@ -1,12 +1,8 @@
 ## Olá 👋
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+#### Construindo conhecimento através da programação.
 
-<br />
-
-Construindo conhecimento através da programação.
-
-**Sobre mim**
+**Sobre o Jacson**
 
 - 💼 Atualmente trabalhando na sustentação de software ERP para distribuidores hospitalares
 
@@ -26,11 +22,11 @@ Construindo conhecimento através da programação.
 #### Top Repositories
 
 
-<a href="https://github.com/jacsongoulart/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/jacsongoulart/AppointmentScheduler-Project-Bash_SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=AppointmentScheduler-Project-Bash_SQL&theme=buefy" />
 </a>
-<a href="https://github.com/jacsongoulart/jacsongoulart.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/jacsongoulart/Projeto_Calculadora_JS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Projeto_Calculadora_JS&theme=buefy" />
 </a>
 
 <!--
