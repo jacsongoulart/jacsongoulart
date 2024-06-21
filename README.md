@@ -1,8 +1,8 @@
-## Olá 👋
+## Olá! Me chamo Jacson👋
 
 #### Construindo conhecimento através da programação.
 
-**Sobre o Jacson**
+**Sobre mim**
 
 - 📈 Trabalhei por mais de 13 anos na parte de infra, e estou buscando uma transição para desenvolvedor full stack, me aprofundando em cada conceito de forma sólida. 
 
