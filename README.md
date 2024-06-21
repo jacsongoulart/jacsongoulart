@@ -14,16 +14,15 @@
 #### Alguns Repositórios jQueryProject
 
 
-
 <a href="https://github.com/jacsongoulart/Agendador-Projecto-Bash_SQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=Agendador-Projecto-Bash_SQL&theme=buefy" />
 </a>
 
-<a href="https://github.com/jacsongoulart/Projeto_Calculadora_JS">
+|<a href="https://github.com/jacsongoulart/Projeto_Calculadora_JS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=Projeto_Calculadora_JS&theme=buefy" />
 </a>
 
-<a href="https://github.com/jacsongoulart/jQueryProject">
+| <a href="https://github.com/jacsongoulart/jQueryProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=jQueryProject&theme=buefy" />
 </a>
 
