@@ -4,9 +4,11 @@
 
 **Sobre o Jacson**
 
-- 💼 Atualmente trabalhando na sustentação de software ERP para distribuidores hospitalares
+- 📈 Trabalhei por mais de 13 anos na parte de infra, e estou buscando uma transição para desenvolvedor full stack, me aprofundando em cada conceito de forma sólida. 
 
-- 📈 Trabalho com tecnologia há mais de 15 anos na parte de infra, e estou buscando uma transição para desenvolver de forma sólida.
+- 💼 Atualmente trabalhando na sustentação de software ERP para distribuidores hospitalares, atuando diariamento com SQL; consultas, correção de bugs, alteraçõs de procedures e edição de reports (Crystal Reports).
+
+- ⚡ HTML, CSS, JavaScript, SQL. 
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
