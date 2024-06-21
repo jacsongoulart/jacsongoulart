@@ -11,7 +11,7 @@
 - ⚡ HTML, CSS, Javascript, SQL.
 
 
-#### Alguns Repositórios jQueryProject
+### Alguns Repositórios
 
 
  | <a href="https://github.com/jacsongoulart/Agendador-Projecto-Bash_SQL">
