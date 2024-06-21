@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://github.com/jacsongoulart/jQueryProject">
-  <img align="center" src="https://jQueryProject.vercel.app/api/pin/?username=jacsongoulart&repo=jQueryProject&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=jQueryProject&theme=buefy" />
 </a>
 
 |
