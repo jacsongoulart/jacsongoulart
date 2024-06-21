@@ -6,7 +6,7 @@
 
 - 📈 Trabalhei por mais de 14 anos na parte de infra, e estou buscando uma transição para desenvolvedor full stack, me aprofundando em cada conceito de forma sólida. 
 
-- 💼 Atualmente trabalhando na sustentação de software ERP para distribuidores hospitalares, atuando diariamento com SQL; consultas, correção de bugs, alteraçõs de procedures e edição de reports (Crystal Reports).
+- 💼 Atualmente trabalho na sustentação de software ERP para distribuidores hospitalares, atuando diariamento com SQL; consultas, correção de bugs, alteraçõs de procedures e edição de reports (Crystal Reports).
 
 - ⚡ HTML, CSS, Javascript, Python, SQL
 
