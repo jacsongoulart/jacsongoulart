@@ -19,7 +19,7 @@
 </a>|
 
 |<a href="https://github.com/jacsongoulart/DB-Universo-Linux-Bash-PostgreSQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=Projeto_Calculadora_JS&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=DB-Universo-Linux-Bash-PostgreSQL&theme=buefy" />
 </a>|
 
 |<a href="https://github.com/jacsongoulart/jQueryProject">
