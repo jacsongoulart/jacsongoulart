@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=Agendador-Projecto-Bash_SQL&theme=buefy" />
 </a>|
 
-|<a href="https://github.com/jacsongoulart/Projeto_Calculadora_JS">
+|<a href="https://github.com/jacsongoulart/DB-Universo-Linux-Bash-PostgreSQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=Projeto_Calculadora_JS&theme=buefy" />
 </a>|
 
