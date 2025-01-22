@@ -22,8 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=DB-Universo-Linux-Bash-PostgreSQL&theme=buefy" />
 </a>|
 
-|<a href="https://github.com/jacsongoulart/jQueryProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=jQueryProject&theme=buefy" />
+|<a href="https://github.com/jacsongoulart/Difal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacsongoulart&repo=Difal&theme=buefy" />
 </a>|
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
